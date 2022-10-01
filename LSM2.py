@@ -1,5 +1,5 @@
 #LSM2.py - script that can open .LSM files from Carl Zeiss LSM710 microscope obtained in lambda mode and convert them into pseudo-realistic colored images (with heli of napari).
-# I make this thing mostly for self-education, so it may (must) contain realy stupid mistakes and just strange things
+# I make this thing mostly for self-education, so it may (must) contain realy stupid mistakes and just strange things 
 
 
 import javabridge
