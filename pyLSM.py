@@ -236,6 +236,7 @@ spectra = pd.DataFrame()
 
 folder_path = os.path.dirname(paths[0])
 
+# Check if folder /Image exists, if no - create one
 if os.path.isdir(folder_path + '/Images'):
     print('Image folder already exists')
 else:
